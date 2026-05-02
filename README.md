@@ -1,0 +1,99 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Banner.png" width="100%" alt="Banner"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nirmal+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript+%7C+Python;Coding+at+light+speed%2C+debugging+at+human+speed." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kiyotakakirito&color=00f7ff&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" align="right" width="360" alt="Coding GIF"/>
+
+## 👋 About Me
+
+- 🌍 Based in **Visakhapatnam, India**
+- 💼 **Full Stack Developer**
+- 🚧 Currently building **Full Stack Web Applications**
+- 🧠 Exploring **AI** to create smarter user experiences
+- ⚡ Always diving into **new tech** to stay ahead
+- 📧 Reach me at: **nirmalnani515@gmail.com**
+- 🌐 Portfolio: **Coming Soon 🚀**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal-rakothu)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalnani515@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kiyotakakirito)
+
+---
+
+## 💻 Tech Stack
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)]()
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)]()
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)]()
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiyotakakirito&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github.readme-stats.vercel.app/api/top-langs/?username=Kiyotakakirito&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kiyotakakirito&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiyotakakirito&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Bottom.gif" width="100%" alt="Bottom GIF"/>
+</div>
+
+<div align="center">
+  <i>⭐ If you like what you see, consider starring some of my repos!</i>
+</div>
