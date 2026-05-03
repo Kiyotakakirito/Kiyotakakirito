@@ -12,6 +12,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" align="right" width="280" alt="Coding GIF"/>
+
 ## 👋 About Me
 
 - 🌍 Based in **Visakhapatnam, India**
@@ -21,6 +23,8 @@
 - ⚡ Always diving into **new tech** to stay ahead
 - 📧 Reach me at: **nirmalnani515@gmail.com**
 - 🌐 Portfolio: **Coming Soon 🚀**
+
+<br clear="both"/>
 
 ---
 
@@ -58,9 +62,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" width="400" alt="Coding GIF"/>
-</div>
 
 ---
 
