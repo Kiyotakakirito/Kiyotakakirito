@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Banner.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Banner.gif" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
@@ -11,8 +11,6 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" align="right" width="360" alt="Coding GIF"/>
 
 ## 👋 About Me
 
@@ -60,32 +58,16 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)]()
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Nirmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiyotakakirito&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github.readme-stats.vercel.app/api/top-langs/?username=Kiyotakakirito&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kiyotakakirito&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" width="400" alt="Coding GIF"/>
 </div>
-
----
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiyotakakirito&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
