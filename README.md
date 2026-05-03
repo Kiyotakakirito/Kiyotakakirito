@@ -74,5 +74,11 @@
 
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Bottom.gif" width="100%" alt="Bottom GIF"/>
+</div>
+
+<br/>
+
+<div align="center">
   <i>⭐ If you like what you see, consider starring some of my repos!</i>
 </div>
