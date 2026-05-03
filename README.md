@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Codingg.gif" align="right" width="280" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Codingg.gif" align="right" width="400" alt="Coding GIF"/>
 
 - 🌍 Based in **Visakhapatnam, India**
 - 💼 **Full Stack Developer**
