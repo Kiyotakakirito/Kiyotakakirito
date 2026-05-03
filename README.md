@@ -80,5 +80,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&duration=9999999&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+Mate+%E2%AD%90%E2%AD%90" alt="Thank You" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=5c4e84&center=true&vCenter=true&width=700&lines=Thank+You+For+Visiting+Mate!!" alt="Thank You" />
 </div>
