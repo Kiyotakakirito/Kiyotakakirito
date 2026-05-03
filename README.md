@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Bottom.gif" width="100%" alt="Bottom GIF"/>
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Bottom.gif?v=2" width="100%" alt="Bottom GIF"/>
 </div>
 
 <div align="center">
