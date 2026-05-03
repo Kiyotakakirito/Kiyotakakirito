@@ -70,11 +70,7 @@
   <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Bottom.gif?v=2" width="100%" alt="Bottom GIF"/>
-</div>
 
 <div align="center">
   <i>⭐ If you like what you see, consider starring some of my repos!</i>
