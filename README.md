@@ -80,5 +80,5 @@
 <br/>
 
 <div align="center">
-  <i>⭐ If you like what you see, consider starring some of my repos!</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&duration=9999999&pause=9999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=⭐+Thank+You+For+Visiting+Mate!!" alt="Thank You" />
 </div>
