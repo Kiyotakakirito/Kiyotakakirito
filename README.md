@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Banner.jpg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Banner.png" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
