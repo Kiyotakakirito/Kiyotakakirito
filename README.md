@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kiyotakakirito&color=ccffdd&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kiyotakakirito&color=5c4e84&style=flat" alt="Profile Views" />
 </div>
 
 ---
