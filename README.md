@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nirmal+👋.;Most+call+me+Kirito!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=35&pause=1000&color=5c4e84&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Nirmal+👋.;Most+call+me+Kirito!!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kiyotakakirito&color=00f7ff&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kiyotakakirito&color=5c4e84&style=flat" alt="Profile Views" />
 </div>
 
 ---
