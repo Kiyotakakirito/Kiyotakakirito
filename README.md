@@ -12,9 +12,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" align="right" width="280" alt="Coding GIF"/>
-
 ## 👋 About Me
+
+<img src="https://raw.githubusercontent.com/Kiyotakakirito/Kiyotakakirito/main/Coding.gif" align="right" width="280" alt="Coding GIF"/>
 
 - 🌍 Based in **Visakhapatnam, India**
 - 💼 **Full Stack Developer**
