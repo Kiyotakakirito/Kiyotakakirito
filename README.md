@@ -22,7 +22,7 @@
 - 🧠 Exploring **AI** to create smarter user experiences
 - ⚡ Always diving into **new tech** to stay ahead
 - 📧 Reach me at: **nirmalnani515@gmail.com**
-- 🌐 Portfolio: **Blankstate.me**
+- 🌐 Portfolio: **[Blankstate.me](https://blankstate.me)**
 
 <br clear="both"/>
 
